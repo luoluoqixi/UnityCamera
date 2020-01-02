@@ -337,7 +337,7 @@ public static class NativeCall
 
     #region 显示一个Toast
 
-#if !UNITY_EDITOR
+#if !UNITY_EDITOR && UNITY_IOS
     [System.Runtime.InteropServices.DllImport("__Internal")]
     private static extern void _showDialog(string msg);
 #endif
