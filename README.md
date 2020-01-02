@@ -3,7 +3,7 @@
 <br /><br />
 <b>项目使用Unity2017.4.2f2测试：</b>
 <br /><br />
-集成了UnityNativeCamera https://github.com/search?q=UnityNativeCamera 与UnityNativeGallery https://github.com/yasirkula/UnityNativeGallery
+集成了UnityNativeCamera https://github.com/yasirkula/UnityNativeCamera 与UnityNativeGallery https://github.com/yasirkula/UnityNativeGallery  
 <br /><br />
 ### 安卓端配置：
 **如果需要保存照片，则PlayerSetting中 设置Write Permission为External (SDCard)**  
