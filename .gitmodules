@@ -1,0 +1,6 @@
+[submodule "Assets/UnityCamera/3rd/UnityNativeGallery"]
+	path = Assets/UnityCamera/3rd/UnityNativeGallery
+	url = https://github.com/yasirkula/UnityNativeGallery.git
+[submodule "Assets/UnityCamera/3rd/UnityNativeCamera"]
+	path = Assets/UnityCamera/3rd/UnityNativeCamera
+	url = https://github.com/yasirkula/UnityNativeCamera.git
