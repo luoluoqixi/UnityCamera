@@ -11,14 +11,6 @@
 
 ### IOS端配置：
 **默认情况下IOS打包无需任何配置即可使用**    
-```Editor/PostProcessBuild.cs```中会自动配置打包XCode工程需要的配置：  
-```NSCameraUsageDescription```相机权限  
-```NSPhotoLibraryUsageDescription```相册权限  
-```NSMicrophoneUsageDescription```媒体权限  
-```NSPhotoLibraryAddUsageDescription```添加到相册权限等。  
-并删除了```UIApplicationExitsOnSuspend```以解决在XCode上传时导致警告问题  
-如果想要手动配置权限：请把```ENABLED = false; ```然后打包XCode工程后手动修改```Info.plist ```   
-
 
 ### 使用方法：  
 
